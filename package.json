@@ -1,0 +1,22 @@
+{
+  "name": "kata-01-el-juego-de-la-vida-dia-01-k011-aug21-t02",
+  "version": "1.0.0",
+  "description": "Kata Game of Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-01-k011-aug21-t02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-01-k011-aug21-t02/issues"
+  },
+  "homepage": "https://github.com/BC-MAY-21-RN/kata-01-el-juego-de-la-vida-dia-01-k011-aug21-t02#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
